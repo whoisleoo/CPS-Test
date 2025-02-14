@@ -1,0 +1,52 @@
+html,
+body {
+  font-family: "Arial", sans-serif;
+  height: 100%;
+  margin: 0;
+}
+
+.btn-dark {
+  background-color: #ee8b13;
+  padding: 80px;
+  font-size: 3em;
+  margin-top: 10px;
+}
+
+p {
+  color: white;
+}
+
+.btn-dark:hover {
+  background-color: #000000;
+}
+
+.bg-custom {
+  background-color: #000;
+}
+
+.foot-custom {
+  background-color: #000;
+}
+
+.profile {
+  color: white;
+}
+
+.profile:hover {
+  color: #ee8b13;
+}
+
+h1 {
+  color: white;
+  padding: 20px;
+  font-size: 4em;
+}
+
+.position {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
